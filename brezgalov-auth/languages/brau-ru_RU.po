@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: t\n"
+"POT-Creation-Date: 2017-09-06 16:20+0400\n"
+"PO-Revision-Date: 2017-09-06 16:21+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop; --keyword=__:1,2c; --"
+"keyword=_e:1,2c\n"
+"X-Poedit-Basepath: /home/progforce/Doctor/o-hotel/wp-content/plugins/"
+"brezgalov-auth/\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: /home/progforce/Doctor/o-hotel/wp-content/plugins/"
+"brezgalov-auth/templates\n"
+
+#: brezgalov-auth.php:67
+msgctxt "brau"
+msgid "This is the test"
+msgstr "ЭТО ТЕСТ"
+
+#: brezgalov-auth.php:142 brezgalov-auth.php:426 brezgalov-auth.php:548
+msgctxt "brau"
+msgid "User login not set"
+msgstr "Не указан логин"
+
+#: brezgalov-auth.php:148
+msgctxt "brau"
+msgid "User password not set"
+msgstr "Не указан пароль"
+
+#: brezgalov-auth.php:173
+msgctxt "brau"
+msgid "Log in is successfull"
+msgstr "Вы успешно авторизованы"
+
+#: brezgalov-auth.php:183
+msgctxt "brau"
+msgid "Username not set"
+msgstr ""
+
+#: brezgalov-auth.php:189
+msgctxt "brau"
+msgid "Email not set"
+msgstr ""
+
+#: brezgalov-auth.php:195 brezgalov-auth.php:576
+msgctxt "brau"
+msgid "Password not set"
+msgstr ""
+
+#: brezgalov-auth.php:201
+msgctxt "brau"
+msgid "Email has already been taken"
+msgstr ""
+
+#: brezgalov-auth.php:213
+msgctxt "brau"
+msgid "Username has already been taken"
+msgstr ""
+
+#: brezgalov-auth.php:228
+msgctxt "brau"
+msgid "Unable to generate user activation token"
+msgstr ""
+
+#: brezgalov-auth.php:239
+msgctxt "brau"
+msgid "Activation email"
+msgstr ""
+
+#: brezgalov-auth.php:245
+msgctxt "brau"
+msgid "Unable to send email"
+msgstr ""
+
+#: brezgalov-auth.php:288
+msgctxt "brau"
+msgid "Not enough data"
+msgstr ""
+
+#: brezgalov-auth.php:301
+msgctxt "brau"
+msgid "Activation token not accepted"
+msgstr ""
+
+#: brezgalov-auth.php:402 brezgalov-auth.php:419 brezgalov-auth.php:535
+msgctxt "brau"
+msgid "User not activated"
+msgstr ""
+
+#: brezgalov-auth.php:409
+msgctxt "brau"
+msgid "User email not set"
+msgstr ""
+
+#: brezgalov-auth.php:435
+msgctxt "brau"
+msgid "User data not found"
+msgstr ""
+
+#: brezgalov-auth.php:453
+msgctxt "brau"
+msgid "Password reset is forbiden"
+msgstr ""
+
+#: brezgalov-auth.php:471
+msgctxt "brau"
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: brezgalov-auth.php:473
+#, php-format
+msgctxt "brau"
+msgid "Username: %s"
+msgstr ""
+
+#: brezgalov-auth.php:474
+msgctxt "brau"
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: brezgalov-auth.php:475
+msgctxt "brau"
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: brezgalov-auth.php:485
+#, php-format
+msgctxt "brau"
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: brezgalov-auth.php:493
+msgctxt "brau"
+msgid "Email could not be sent"
+msgstr ""
+
+#: brezgalov-auth.php:542
+msgctxt "brau"
+msgid "User key not set"
+msgstr ""
+
+#: brezgalov-auth.php:564
+msgctxt "brau"
+msgid "User not found"
+msgstr ""
+
+#: brezgalov-auth.php:582
+msgctxt "brau"
+msgid "Password confirmation not set"
+msgstr ""
+
+#: brezgalov-auth.php:588
+msgctxt "brau"
+msgid "Passwords doesnt match"
+msgstr ""
+
+#: brezgalov-auth.php:606
+msgctxt "brau"
+msgid "User ID not set"
+msgstr ""
+
+#: brezgalov-auth.php:612
+msgctxt "brau"
+msgid "User data not set"
+msgstr ""
+
+#: socialHelper.php:44
+msgctxt "brau"
+msgid "No auth identifier"
+msgstr ""
+
+#: socialHelper.php:59
+msgctxt "brau"
+msgid "Not enough parameters for operation"
+msgstr ""
+
+#: settings.php:55
+msgctxt "brau"
+msgid "User auth settings"
+msgstr ""
+
+#: settings.php:56
+msgctxt "brau"
+msgid "Auth"
+msgstr ""
+
+#: settings.php:75
+msgctxt "brau"
+msgid "Auth plugin options"
+msgstr ""
+
+#: settings.php:83
+msgctxt "brau"
+msgid "Require user activation by email"
+msgstr ""
+
+#: settings.php:96
+msgctxt "brau"
+msgid ""
+"This option enables sending activation email on registration and restricts "
+"authorization of non activated users. Previously registered users are "
+"considered activated"
+msgstr ""
+
+#: settings.php:103
+msgctxt "brau"
+msgid "Activation message"
+msgstr ""
+
+#: settings.php:115
+msgctxt "brau"
+msgid ""
+"You can use such tags as {{sitename}}, {{username}} and {{link}} to paste "
+"your host name, user name and activation link"
+msgstr ""
+
+#: settings.php:122
+msgctxt "brau"
+msgid "Activation link"
+msgstr ""
+
+#: settings.php:133
+msgctxt "brau"
+msgid "Set link leading to your login page, use {{code}} as parameter"
+msgstr ""
+
+#: settings.php:140
+msgctxt "brau"
+msgid "Activation link text"
+msgstr ""
+
+#: settings.php:151
+msgctxt "brau"
+msgid "Define activation link text"
+msgstr ""
+
+#: settings.php:158 settings.php:169
+msgctxt "brau"
+msgid "Forgot password link"
+msgstr ""
+
+#: settings.php:181
+msgctxt "brau"
+msgid "VK"
+msgstr "ВК"
+
+#: settings.php:189
+msgctxt "brau"
+msgid "VK application Id"
+msgstr ""
+
+#: settings.php:202
+msgctxt "brau"
+msgid "Id of your VK application"
+msgstr ""
+
+#: settings.php:209
+msgctxt "brau"
+msgid "VK application secret code"
+msgstr ""
+
+#: settings.php:222
+msgctxt "brau"
+msgid "Secret code of your VK application"
+msgstr ""
+
+#: settings.php:234
+msgctxt "brau"
+msgid "Odnoklassniki"
+msgstr ""
+
+#: settings.php:242
+msgctxt "brau"
+msgid "OK application Id"
+msgstr ""
+
+#: settings.php:255
+msgctxt "brau"
+msgid "Id of your OK application"
+msgstr ""
+
+#: settings.php:262
+msgctxt "brau"
+msgid "OK application secret code"
+msgstr ""
+
+#: settings.php:275
+msgctxt "brau"
+msgid "Secret code of your OK application"
+msgstr ""
+
+#: templates/logout-button.php:5
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/logout-button.php:5
+msgctxt "brau"
+msgid "Logout"
+msgstr ""
+
+#: templates/set-password-form.php:10
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/set-password-form.php:10
+msgctxt "brau"
+msgid "New password:"
+msgstr ""
+
+#: templates/set-password-form.php:15
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/set-password-form.php:15
+msgctxt "brau"
+msgid "Enter new password"
+msgstr ""
+
+#: templates/set-password-form.php:20
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/set-password-form.php:20
+msgctxt "brau"
+msgid "Password confirmation:"
+msgstr ""
+
+#: templates/set-password-form.php:25
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/set-password-form.php:25
+msgctxt "brau"
+msgid "Confirm new password"
+msgstr ""
+
+#: templates/login-form.php:9 templates/register-form.php:9
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/login-form.php:9
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/register-form.php:9
+msgctxt "brau"
+msgid "Login"
+msgstr ""
+
+#: templates/login-form.php:15
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/login-form.php:15
+msgctxt "brau"
+msgid "Enter your login"
+msgstr ""
+
+#: templates/login-form.php:19 templates/register-form.php:48
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/login-form.php:19
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/register-form.php:48
+msgctxt "brau"
+msgid "Password"
+msgstr ""
+
+#: templates/login-form.php:25
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/login-form.php:25
+msgctxt "brau"
+msgid "Enter your password"
+msgstr ""
+
+#: templates/login-form.php:29
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/login-form.php:29
+msgctxt "brau"
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: templates/login-form.php:37
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/login-form.php:37
+msgctxt "brau"
+msgid "Forgot your password?"
+msgstr ""
+
+#: templates/register-form.php:22
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/register-form.php:22
+msgctxt "brau"
+msgid "Email"
+msgstr ""
+
+#: templates/register-form.php:35
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/register-form.php:35
+msgctxt "brau"
+msgid "User name"
+msgstr ""
+
+#: templates/register-form.php:60
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/register-form.php:60
+msgctxt "brau"
+msgid "Show password"
+msgstr ""
+
+#: templates/register-form.php:63
+#: /home/progforce/Doctor/o-hotel/wp-content/plugins/brezgalov-auth/templates/register-form.php:63
+msgctxt "brau"
+msgid "Register"
+msgstr "Регистрация"

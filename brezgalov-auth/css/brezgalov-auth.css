@@ -1,0 +1,36 @@
+#r_show,
+#l-remember {
+	margin: 0;
+	margin-left: 10px;
+}
+#r_show:focus,
+#l-remember:focus {
+	border: none;
+    outline: none;
+    box-shadow: none;
+}
+#brau-register-form-submit,
+#brau-login-form-submit {
+	float: right;
+}
+.alert-group {
+	text-align: center;
+	color: red;
+	min-height: 25px;
+}
+.alert-group .error {
+	color: red;
+}
+.alert-group .success {
+	color: darkgreen;
+}
+.required-sign {
+	color: red;
+}
+.brau-social-link:hover {
+	text-decoration: none;
+}
+.brau-social-link > img {
+	width: 25px;
+	height: 25px;
+}
